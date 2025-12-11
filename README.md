@@ -1,7 +1,9 @@
 # ¡Hola! 👋 Soy Rubén
 
 🎓 Estudiante de **Ingeniería Informática** en la rama de **Tecnologías de la Información (TI)**  
+
 💻 Apasionado por la **ciberseguridad, administración de bases de datos y desarrollo de software**  
+
 🚀 Siempre aprendiendo y explorando nuevas tecnologías  
 
 ## 📈 Estadísticas de GitHub
