@@ -6,16 +6,15 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
-<!-- Estadísticas generales -->
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=rubverd&show_icons=true&theme=radical&border_radius=15" 
+       src="https://stats.hyochan.dev/api?username=rubverd&show_icons=true&theme=radical&border_radius=15" 
        height="165"
   />
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubverd&layout=compact&theme=radical&border_radius=15" 
+       src="https://stats.hyochan.dev/api/top-langs/?username=rubverd&layout=compact&theme=radical&border_radius=15" 
        height="165"
   />
 </p>
@@ -23,3 +22,4 @@
 ---
 
 ⭐ *Gracias por visitar mi perfil. ¡Siempre abierto a colaborar y aprender cosas nuevas!* 🚀
+
