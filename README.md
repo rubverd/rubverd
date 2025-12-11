@@ -1,23 +1,43 @@
 # ¡Hola! 👋 Soy Rubén
 
-🎓 Estudiante de **Ingeniería Informática** en la rama de **Tecnologías de la Información (TI)**  
-💻 Apasionado por la ciberseguridad, administración de bases de datos y desarrollo de software  
-🚀 Siempre aprendiendo y explorando nuevas tecnologías  
+<div align="center">
+  🎓 Estudiante de **Ingeniería Informática** (TI)
+  💻 **Ciberseguridad** | 🗄️ **Bases de Datos** | 🛠️ **Desarrollo**
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 🏆 Mis Logros
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rubverd&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trofeos" />
+</div>
+
+---
+
+### 📊 Actividad y Lenguajes
 
 <p align="center">
-  <!-- Seguidores y repos -->
-  ![GitHub followers](https://img.shields.io/github/followers/rubverd?label=Seguidores&style=social)
-  ![GitHub repos](https://img.shields.io/github/public-repos/rubverd?label=Repositorios)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rubverd&theme=radical&hide_border=true" alt="Racha GitHub" />
+</p>
 
-  <!-- Contribuciones -->
-  <br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=rubverd&theme=react-dark&area=true" alt="Contribuciones">
+<p align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rubverd&layout=compact&theme=radical&hide_border=true" alt="Lenguajes" />
 </p>
 
 ---
 
-⭐ *Gracias por visitar mi perfil. ¡Siempre abierto a colaborar y aprender cosas nuevas!* 🚀
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</div>
+
+---
+
+<div align="center">
+  ⭐ *Gracias por visitar mi perfil. ¡Siempre abierto a colaborar!* 🚀
+</div>
