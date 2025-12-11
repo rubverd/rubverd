@@ -1,8 +1,6 @@
 # ¡Hola! 👋 Soy Rubén
 
-🎓 Estudiante de **Ingeniería Informática** en la rama de **Tecnologías de la Información (TI)**  
-💻 Apasionado por la **ciberseguridad**, **administración de bases de datos** y **desarrollo de software**  
-🚀 Siempre aprendiendo y explorando nuevas tecnologías  
+🎓 Estudiante de **Ingeniería Informática** en la rama de **Tecnologías de la Información (TI)** 💻 Apasionado por la **ciberseguridad**, **administración de bases de datos** y **desarrollo de software** 🚀 Siempre aprendiendo y explorando nuevas tecnologías 
 
 ---
 
@@ -10,16 +8,15 @@
 
 <p align="center">
   <img 
-       src="https://stats.hyochan.dev/api?username=rubverd&show_icons=true&theme=radical&border_radius=15" 
-       height="165"
+    src="https://github-readme-stats.vercel.app/api?username=rubverd&show_icons=true&theme=radical&border_radius=15" 
+    alt="Estadísticas de Rubén"
   />
   <img 
-       src="https://stats.hyochan.dev/api/top-langs/?username=rubverd&layout=compact&theme=radical&border_radius=15" 
-       height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubverd&layout=compact&theme=radical&border_radius=15" 
+    alt="Lenguajes más usados"
   />
 </p>
 
 ---
 
 ⭐ *Gracias por visitar mi perfil. ¡Siempre abierto a colaborar y aprender cosas nuevas!* 🚀
-
